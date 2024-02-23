@@ -6,3 +6,5 @@ address
 whitefield
 marathahalli bridge
 git practices
+AWS 
+DevOps
